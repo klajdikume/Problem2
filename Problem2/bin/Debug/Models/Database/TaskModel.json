@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Titull": "Task 1",
+    "Pershkrim": "Mos harroni masken",
+    "Schedules": [
+      {
+        "Id": 1,
+        "Intervali": "4",
+        "Year": "2020",
+        "Month": "07",
+        "Day": "11",
+        "Hour": "2",
+        "Minute": "25",
+        "Second": "23",
+        "Milisecond": "0",
+        "TypeScheduleId": 1,
+        "typeSchedule": {
+          "Id": 1,
+          "Type": "Secondly"
+        }
+      }
+      
+    ]
+  },
+  {
+    "Id": 2,
+    "Titull": "Task 2",
+    "Pershkrim": "Lani mire duart me sapun",
+    "Schedules": [
+      {
+        "Id": 3,
+        "Intervali": "4",
+        "Year": "2020",
+        "Month": "07",
+        "Day": "12",
+        "Hour": "2",
+        "Minute": "25",
+        "Second": "23",
+        "Milisecond": "0",
+        "TimeScheduled": "2017-09-08T19:04:14.480Z",
+        "TypeScheduleId": 3,
+        "typeSchedule": {
+          "Id": 3,
+          "Type": "Hourly"
+        }
+      }
+    ]
+  }
+]

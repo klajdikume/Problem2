@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GILZGW20DOkz+N94tVVGuYpBfHoW3AVGfykACbC68wrmVcG7JSI0xJqUsulCW0m3BusjwHa6cx9gCisKCXYFOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Pragmatic\\Problem2\\Problem2\\Problem2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
